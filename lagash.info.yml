@@ -1,0 +1,17 @@
+name: Lagash
+type: theme
+description: 'HTML5 responsive grid base theme'
+package: Other
+core: 8.x
+base theme: false
+
+libraries:
+  - lagash/global-css
+
+regions:
+  header: Header
+  help: Help
+  highlighted: Highlighted
+  featured: Featured
+  content: Content
+  footer: Footer
