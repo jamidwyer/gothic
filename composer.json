@@ -1,0 +1,6 @@
+{
+  "name": "drupal/lagash",
+  "type": "drupal-theme",
+  "require": {
+  }
+}
