@@ -1,4 +1,4 @@
-name: Starter
+name: Gothic
 type: theme
 description: 'HTML5 responsive grid base theme'
 package: Other
@@ -6,7 +6,7 @@ core: 8.x
 base theme: false
 
 libraries:
-  - starter/global-css
+  - gothic/global-css
 
 regions:
   header: Header
