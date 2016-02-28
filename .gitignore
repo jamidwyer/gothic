@@ -1,2 +1,9 @@
 *.scssc
 *.sassc
+autoload_classmap.php
+autoload_namespaces.php
+LICENSE
+autoload_psr4.php
+autoload_real.php
+ClassLoader.php
+installed.json
